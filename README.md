@@ -1,6 +1,6 @@
 # PersonalizedPlaylist
 
-A personally crafted, aesthetic music player web app with a magical petal cursor, playlist folders, and real YouTube playback. Built for personal use — no logins, no ads, just vibes.
+A personally crafted, aesthetic music player web app with a magical petal cursor, playlist folders, and real YouTube playback. Built for personal use - no logins, no ads, just vibes.
 
 Features
 
