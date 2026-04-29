@@ -11,7 +11,6 @@ Features
   - Full player controls — play, pause, skip, shuffle, repeat, volume
   - Song poster — YouTube thumbnail shows as the album art, spins like vinyl
   - Auto-saves — your songs and playlists stay saved even after closing the browser
-  - I have creted it using python !!
 
 Here since its not a licenced application I have just created a web page and for the songs I have copied a link from youtube and pasted it for the song to be added into my play list.
 
